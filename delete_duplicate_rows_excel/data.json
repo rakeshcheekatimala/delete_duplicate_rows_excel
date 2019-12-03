@@ -1,0 +1,8 @@
+{
+	"inputFileName": "/Users/rakeshcheekatimala/Desktop/Learning/Excel/input.xlsx",
+	"outputFileName": "/Users/rakeshcheekatimala/Desktop/Learning/Excel/output.xlsx",
+	"format": "xslx",
+	"duplicateColumnNames": "EmployeeId,PostalCode,Name",
+	"keep": "first",
+	"index": "False"
+}
