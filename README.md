@@ -17,6 +17,8 @@ delete-duplicate-rows-excel -json data.json
 	"inputFileName": "/Users/rakeshcheekatimala/Desktop/Learning/ScrapDataExcel/input.xlsx",
 	"outputFileName": "/Users/rakeshcheekatimala/Desktop/Learning/ScrapDataExcel/output.xlsx",
 	"format": "xslx",
-	"duplicateColumnNames": "Company,Postalcode,Mall Name"
+	"duplicateColumnNames": "Company,Postalcode,Mall Name",
+	"keep": "first",
+	"index": "False"
 }
 ```
