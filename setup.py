@@ -24,7 +24,7 @@ setup(
     ],
     packages=["delete_duplicate_rows_excel"],
     include_package_data=True,
-    install_requires=["requests"],
+    install_requires=["argparse", "pandas", "xlrd"],
     entry_points={
         "console_scripts": [
             "delete-duplicate-rows-excel-=delete_duplicate_rows_excel.cli:main",
