@@ -18,7 +18,7 @@ def main():
 
 
 def delete_duplicate_rows_from_excel(jsonfile):
-    contents = readjson.loadJsonData(jsonfile)
+    contents = readjson.load_json_data(jsonfile)
     if contents:
         data = pd.read_excel(contents["inputFileName"])
         initialRows = data.__len__()
