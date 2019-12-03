@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name="delete-duplicate-rows-excel",
-    version="1.0.1",
+    version="1.0.0",
     description="A Python package to delete duplicate based on your column combinations given in data.json",
     long_description=readme(),
     long_description_content_type="text/markdown",
